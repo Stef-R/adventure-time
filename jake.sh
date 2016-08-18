@@ -1,4 +1,5 @@
 #!/bin/bash
-echo "Mathemagical!"
+echo "shit storm"
+#echo "Mathemagical!"
 echo "I love Lady Rainicorn"
 
